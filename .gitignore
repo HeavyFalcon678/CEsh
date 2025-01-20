@@ -6,3 +6,4 @@ src/gfx/*.h
 src/fonts/*.inc
 *.log
 *.8xp
+settings.json
